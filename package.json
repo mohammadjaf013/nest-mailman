@@ -38,8 +38,8 @@
     "test:e2e:dev": "jest --config ./tests/jest-e2e.json --runInBand --watch"
   },
   "devDependencies": {
-    "@nestjs/common": "^9.3.9",
-    "@nestjs/core": "^9.3.9",
+  "@nestjs/common": "^10.0.0",
+  "@nestjs/core": "^10.0.0"
     "@types/mjml": "^4.7.0",
     "@types/nodemailer": "^6.4.7",
     "@types/react": "^18.0.28",
